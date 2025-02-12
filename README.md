@@ -4,7 +4,7 @@
 <span style="color:purple; font-weight:bold">📅 Date:</span> <span style="color:#4CAF50">December 17, 2024</span>  
 <span style="color:blue; font-weight:bold">📆 Day:</span> <span style="color:#4CAF50">Tuesday</span>
 
-<img src="https://github.com/khiraanisa/files/blob/main/6152222738496996108.jpg" alt="Classroom Discussion Photo" width="600">
+<img src="https://github.com/khiraanisa/files/blob/main/6152222738496996108.jpg" width="600">
 
 Industrial Visit video >> [UTMDigital Video](https://www.canva.com/design/DAGaIV27ADU/zaR8YGLFyI87rZwldt1nAw/edit?utm_content=DAGaIV27ADU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
